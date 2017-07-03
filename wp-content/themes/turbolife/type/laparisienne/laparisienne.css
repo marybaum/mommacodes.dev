@@ -1,0 +1,51 @@
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2016 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      My Creative Land
+ * License URL: https://www.fontspring.com/licenses/my-creative-land/webfont
+ *
+ *
+ */
+
+@font-face {
+    font-family: 'la_parisienne_scriptcasual';
+    src: url('lpscript-casual-webfont.eot');
+    src: url('lpscript-casual-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lpscript-casual-webfont.woff2') format('woff2'),
+         url('lpscript-casual-webfont.woff') format('woff'),
+         url('lpscript-casual-webfont.ttf') format('truetype'),
+         url('lpscript-casual-webfont.svg#la_parisienne_scriptcasual') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'lp_sansregular';
+    src: url('lpsans-regular-webfont.eot');
+    src: url('lpsans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lpsans-regular-webfont.woff2') format('woff2'),
+         url('lpsans-regular-webfont.woff') format('woff'),
+         url('lpsans-regular-webfont.ttf') format('truetype'),
+         url('lpsans-regular-webfont.svg#lp_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
